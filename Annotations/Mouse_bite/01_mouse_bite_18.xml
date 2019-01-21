@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mouse_bite</folder>
+	<filename>01_mouse_bite_18.jpg</filename>
+	<path>/home/weapon/Desktop/PCB_DATASET/Mouse_bite/01_mouse_bite_18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3034</width>
+		<height>1586</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse_bite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>1395</ymin>
+			<xmax>427</xmax>
+			<ymax>1428</ymax>
+		</bndbox>
+	</object>
+</annotation>
